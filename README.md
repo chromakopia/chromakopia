@@ -3,4 +3,4 @@ my ugly old
 
 <img src="sparkler.png">
 
-this is me and my [sister](https://github.com/fashighewho)
+this is me and my [sister](https://github.com/bunso-shin)
