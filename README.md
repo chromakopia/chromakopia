@@ -1,6 +1,3 @@
-my ugly old 
-[rentry](https://rentry.co/mizisuake) here
+<div align=center>
 
-<img src="sparkler.png">
-
-this is me and my [sister](https://github.com/bunsho-shin)
+<img width="313" height="299" alt="Image" src="https://github.com/user-attachments/assets/b9cd5994-1f55-4898-98a6-458bb6e4fe20" />
